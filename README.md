@@ -26,7 +26,7 @@ Fase 4 (Semanas 13–16): Pruebas de latencia/memoria (strace, top), ajuste de p
 
 - **Asignatura:** Sistemas Operativos — Proyecto Integrador de Cátedra (16 Semanas)[span_1](start_span)[span_1](end_span)
 - **Estudiantes:**
-  - H. Martinez — C.I. 31.092.075
+  - Henyer Martinez — C.I. 31.092.075
   - Yairubys Mijares — C.I. 31.232.485
 - **Sección:** D3
 - **Arquitectura:** Linux Minimalista `x86_64` + Wayland + LXC/Waydroid + IPC (`binderfs`, `memfd`, sockets)[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span)
